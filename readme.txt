@@ -1,12 +1,5 @@
-Git is a version control system
-
-something changes
-
-
-meiyoude shi   lsdfsdfsjfsljfsl
-
-create a new branch is quick
-
-are u kidding me?
-
-nice to meet u?
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
+Git tracks changes of files.
+Creating a new branch is quick AND simple.
